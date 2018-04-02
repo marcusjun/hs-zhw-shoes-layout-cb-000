@@ -9,7 +9,7 @@
   -moz-box-sizing: border-box;
 }
 
-/*
+
 .clearfix:after {
   content: ".";
   display: block;
@@ -18,11 +18,12 @@
   height: 0;
   line-height: 0;
 }
-*/
 
+/*
 .clear {
   clear: both;
 }
+*/
 
 /* Posititoning Classes */
 
